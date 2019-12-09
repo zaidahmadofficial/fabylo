@@ -7,7 +7,7 @@ sections:
     content: >-
       We are a social media company which helps to find the right people for
       you.
-    image: /images/illustrated-women-portraits_people-illustration-t-shirt.png
+    image: /images/aa.jpg
     section_id: hero
     title: Find People you're Looking For
     type: section_hero
