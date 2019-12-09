@@ -1,0 +1,5 @@
+---
+title: Vision
+layout: landing
+---
+
