@@ -24,7 +24,7 @@ params:
       actions:
         - label: Sign Up
           url: /signup
-  palette: blue
+  palette: green
 disableKinds:
   - RSS
   - taxonomy
