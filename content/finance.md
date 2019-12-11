@@ -7,6 +7,10 @@ sections:
     section_id: finance
     title: Finance
     type: section_content
+menu:
+  main:
+    name: Finance
+    weight: 6
 layout: landing
 ---
 
