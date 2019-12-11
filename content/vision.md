@@ -6,6 +6,10 @@ sections:
     section_id: vision
     title: Our Vision
     type: section_content
+menu:
+  main:
+    name: Vision
+    weight: 2
 layout: landing
 ---
 
