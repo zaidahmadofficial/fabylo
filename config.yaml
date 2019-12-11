@@ -2,28 +2,23 @@ title: Fabylo Theme
 baseURL: /
 params:
   footer:
-    content: '&copy; Stackbit. All rights reserved.'
+    content: Fabylo. All rights reserved.
     has_nav: true
     has_social: true
     has_subscribe: true
-    links:
-      - new_window: true
-        text: Made with Stackbit
-        url: 'https://www.stackbit.com'
+    links: []
     logo_img: ''
-    nav_title: Company
+    nav_title: Fabylo
     social_title: Community
     subscribe_content: Stay up to date with our latest developments.
     subscribe_title: Subscribe
-    tagline: SaaS theme by Stackbit
+    tagline: FABYLO
   header:
     has_nav: true
     logo_img: ''
     title: Fabylo
     menu:
-      actions:
-        - label: Sign Up
-          url: /signup
+      actions: []
   palette: green
 disableKinds:
   - RSS
