@@ -8,7 +8,7 @@ sections:
       We are a social media company which helps to find the right people for
       you.
     image: /images/aa.jpg
-    section_id: hero
+    section_id: home
     title: Find People you're Looking For
     type: section_hero
 menu:
